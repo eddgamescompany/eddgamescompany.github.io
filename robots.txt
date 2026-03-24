@@ -1,7 +1,7 @@
 User-agent: *
-Allow: /app-ads__.txt
+Allow: /app-ads.txt
 Allow: /
 
 # Specifically allow the AdMob crawler
 User-agent: Mediapartners-Google
-Allow: /app-ads__.txt
+Allow: /app-ads.txt
