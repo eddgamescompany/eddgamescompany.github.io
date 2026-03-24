@@ -1,8 +1,8 @@
 include:
-  - app-ads__.txt
+  - app-ads.txt
 
 defaults:
   - scope:
-      path: "app-ads__.txt"
+      path: "app-ads.txt"
     values:
       sitemap: false
